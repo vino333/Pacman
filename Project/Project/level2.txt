@@ -1,0 +1,21 @@
+20 20
+DDDD         G      
+D       *     ##### 
+D KEEEEE  *    *  # 
+D  E             K# 
+D  E K    DDDDDD  # 
+   E  # * D       # 
+   E  #   D    I    
+ I    #      E    * 
+   *  #  W * E      
+      #####  E * DDD
+G   *        E  *  D
+       D     EEEE  D
+   *   D           D
+EEE    D  *   *  I  
+  E DDDD            
+  E       E%  ####  
+ *   #  * E   #    D
+     #    EEE #  K D
+ K   #  I   * #  DDD
+  ####             T

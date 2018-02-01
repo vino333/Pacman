@@ -1,0 +1,21 @@
+20 20
+K###    E           
+##G  DD E E EE DDDD 
+#    D* E   *E    D 
+# D*DDD EEEEEE ## D 
+  DDD         I   D 
+        ###   E*E   
+EEE  ####   D EEEEE 
+EK        @DD       
+EEE  DDDDD       # E
+        *D ### ### E
+####### DD #       E
+  #*#      # D*D E*E
+           # DDD EEE
+ DDDDD EEE #        
+   *D* EK  # EEEE   
+ E DDD EEE  I  *E   
+ E          DD EE  #
+ E  E ## #  *D  E  #
+ EEEE #* #  DD   T##
+%     ## #   D #I## 
